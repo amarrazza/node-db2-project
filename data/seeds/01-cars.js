@@ -7,7 +7,7 @@
 
 const cars = [
     {
-        vin: 11111, 
+        vin: 'JH4CC2560PC005719', 
         make: 'Jeep', 
         model: 'Wrangler', 
         mileage: 10000, 
@@ -15,14 +15,14 @@ const cars = [
         transmission: 'auto'
     },
     {
-        vin: 12323, 
+        vin: '5GZCZ23D13S847842', 
         make: 'Toyota', 
         model: 'Camry', 
         mileage: 100020, 
         title: 'clean', 
     },
     {
-        vin: 1232323, 
+        vin: 'SAJWA2GEXBMV00832', 
         make: 'Tesla', 
         model: 'Model Y', 
         mileage: 1000, 
